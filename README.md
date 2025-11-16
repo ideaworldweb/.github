@@ -84,7 +84,7 @@ Ready to bring your ideas to life? We'd love to hear from you!
 
 **Idea World Web** - *Transforming Ideas into Digital Reality*
 
-© 2024 Idea World Web. All Rights Reserved.
+© 2025 Idea World Web. All Rights Reserved.
 
 [🌐 Website](https://ideaworldweb.com/) • [💼 Portfolio](https://ideaworldweb.com/works-en) • [📧 Contact](https://ideaworldweb.com/contact-en)
 
