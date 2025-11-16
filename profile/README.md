@@ -60,7 +60,7 @@ We offer a comprehensive range of digital services to meet all your business nee
 
 </div>
 
-## 📖 About This Repository
+##  About This Repository
 
 This is the official `.github` repository for Idea World Web organization. This repository contains:
 
@@ -86,6 +86,6 @@ Ready to bring your ideas to life? We'd love to hear from you!
 
 © 2025 Idea World Web. All Rights Reserved.
 
-[ Website](https://ideaworldweb.com/) • [ Portfolio](https://ideaworldweb.com/works-en) • [ Contact](https://ideaworldweb.com/contact-en)
+[Website](https://ideaworldweb.com/) • [Portfolio](https://ideaworldweb.com/works-en) • [Contact](https://ideaworldweb.com/contact-en)
 
 </div>
