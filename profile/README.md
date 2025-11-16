@@ -14,49 +14,49 @@
 
 ---
 
-## 🌟 Welcome to Idea World Web
+##  Welcome to Idea World Web
 
 Idea World Web is a creative digital agency dedicated to transforming ideas into innovative web solutions. We specialize in creating exceptional digital experiences that help businesses thrive in the modern digital landscape.
 
-## 🚀 Our Services
+##  Our Services
 
 We offer a comprehensive range of digital services to meet all your business needs:
 
-### 💻 Web Development
+###  Web Development
 - Custom Website Design & Development
 - Responsive & Mobile-First Design
 - E-commerce Solutions
 - Content Management Systems (CMS)
 - Progressive Web Applications (PWA)
 
-### 🎨 Creative Design
+###  Creative Design
 - Brand Identity & Logo Design
 - UI/UX Design
 - Graphic Design
 - Digital Marketing Materials
 
-### 📱 Digital Solutions
+###  Digital Solutions
 - Mobile Application Development
 - Web Application Development
 - API Development & Integration
 - Database Design & Management
 
-### 🔧 Technical Services
+###  Technical Services
 - Website Maintenance & Support
 - Performance Optimization
 - SEO & Digital Marketing
 - Security & Hosting Solutions
 
-## 🔗 Quick Links
+##  Quick Links
 
 <div align="center">
 
 | Page | Description | Link |
 |------|-------------|------|
-| 🏠 **Home** | Discover our company and vision | [Visit Homepage](https://ideaworldweb.com/) |
-| 👥 **About Us** | Learn about our team and mission | [About Us](https://ideaworldweb.com/about-en) |
-| 💼 **Our Works** | Explore our portfolio and projects | [View Portfolio](https://ideaworldweb.com/works-en) |
-| 📧 **Contact** | Get in touch with our team | [Contact Us](https://ideaworldweb.com/contact-en) |
+|  **Home** | Discover our company and vision | [Visit Homepage](https://ideaworldweb.com/) |
+|  **About Us** | Learn about our team and mission | [About Us](https://ideaworldweb.com/about-en) |
+|  **Our Works** | Explore our portfolio and projects | [View Portfolio](https://ideaworldweb.com/works-en) |
+|  **Contact** | Get in touch with our team | [Contact Us](https://ideaworldweb.com/contact-en) |
 
 </div>
 
@@ -70,7 +70,7 @@ This is the official `.github` repository for Idea World Web organization. This 
 - Repository configurations
 - Contributing guidelines
 
-## 🤝 Get In Touch
+##  Get In Touch
 
 Ready to bring your ideas to life? We'd love to hear from you!
 
@@ -86,6 +86,6 @@ Ready to bring your ideas to life? We'd love to hear from you!
 
 © 2025 Idea World Web. All Rights Reserved.
 
-[🌐 Website](https://ideaworldweb.com/) • [💼 Portfolio](https://ideaworldweb.com/works-en) • [📧 Contact](https://ideaworldweb.com/contact-en)
+[ Website](https://ideaworldweb.com/) • [ Portfolio](https://ideaworldweb.com/works-en) • [ Contact](https://ideaworldweb.com/contact-en)
 
 </div>
